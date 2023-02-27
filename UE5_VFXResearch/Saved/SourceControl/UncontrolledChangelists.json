@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Materials/Banana.uasset",
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Textures/Banana_Texture.uasset",
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Models/Banana_Model.uasset",
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/VFX_Test/Banana/Materials/Banana.uasset",
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/VFX_Test/Banana/Models/Banana_Model.uasset",
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/VFX_Test/Banana/Textures/Banana_Texture.uasset",
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/lambert1.uasset",
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/Banana_Texture.uasset",
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/Banana_Model.uasset",
@@ -15,10 +21,7 @@
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana.uasset",
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Banana.uasset",
 				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Banana_Model.uasset",
-				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Banana_Texture.uasset",
-				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Materials/Banana.uasset",
-				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Textures/Banana_Texture.uasset",
-				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Models/Banana_Model.uasset"
+				"C:/WORKING/UE5_VFXReserach/UE5_VFXResearch/Content/StarterContent/VFX_Test/Banana/Banana_Texture.uasset"
 			]
 		}
 	]
